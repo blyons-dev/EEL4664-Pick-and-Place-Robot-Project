@@ -1,0 +1,23 @@
+miniArm XYZ Control v2.2.1 — Developed by Ngo Lab; SIMULATION, no physical movement
+SIMULATION uses synthetic calibration; local calibration.json is ignored. Use --simulate --use-calibration to test your measured mapping.
+Emulator READY. Preparing upright reference for direct IK preview.
+Upright calibration conversion: Base q=90 deg -> S5 raw 90, Shoulder q=90 deg -> S4 raw 90, Elbow q=0 deg -> S3 raw 90, Wrist q=0 deg -> S2 raw 90
+Initializing emulator at upright reference; no physical movement.
+Command sequence finished (estimated position; no encoder feedback).
+Mode: IK CONTROL
+Simulation ready for XYZ Calculate / Preview; no upright click required.
+XYZ [-40.0, 100.0, 150.0] mm from current pose: converged; 26 updates; residual 0.0025 mm
+Angles deg [111.8, 95.59, -63.38, -76.18]; rounded miss 1.76 mm; one checked coordinated target; 2.53 s cubic motion. Preview only.
+Command sequence finished (estimated position; no encoder feedback).
+Pick & Place preflight complete: pickup [-40.0, 100.0, 150.0], cup [127.0, 0.0], rim 127.0 mm; release [127.0, 0.0, 172.0]. No motion sent.
+Pick & Place 1/9: Open claw
+Pick & Place 2/9: Approach above block (1/1)
+Pick & Place 3/9: Lower to pickup (1/1)
+Pick & Place 4/9: Close claw / grasp
+Pick & Place 5/9: Lift block (1/1)
+Pick & Place 6/9: Transfer above cup (1/1)
+Pick & Place 7/9: Lower to release above rim (1/1)
+Pick & Place 8/9: Open claw / release
+Pick & Place 9/9: Retreat above cup (1/1)
+Pick & Place command sequence complete; visually verify the block landed in the cup.
+
