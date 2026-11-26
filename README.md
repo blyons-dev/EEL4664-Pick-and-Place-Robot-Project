@@ -82,6 +82,6 @@ The following modifications were made to the original instructor-provided projec
 The following videos demonstrate the MATLAB simulation and physical operation of the miniArm.
 | Demonstration | Video Link |
 |---|---|
-| MATLAB Inverse Kinematics Simulation | [Insert Video Link] |
-| Physical XYZ Positioning | [Insert Video Link] |
-| Physical Pick-and-Place Demonstration | [Insert Video Link] |
+| MATLAB Inverse Kinematics Simulation | [Watch Video](media/MATLAB_Numerical_IK_Demo_vid.mp4) |
+| Physical XYZ Positioning | [Watch Video](media/PXL_20261124_001703191.mp4) |
+| Physical Pick-and-Place Demonstration | [Watch Video](media/PXL_20261124_012635383) |
